@@ -1,4 +1,4 @@
-## Hi there 👋
+## LEE SU KYOUNG 🦙
 
 <!--
 **lama9898/lama9898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,13 +17,15 @@ Here are some ideas to get you started:
 🔭 I’m currently working on : Travel Information Social Web Project
 
 
-Language
+## Skills 🧰
+### Language 🔡
 
 ![Java](https://img.shields.io/badge/Java-7EB2D1.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![Java](https://img.shields.io/badge/Java-7EB2D1.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
-Tools
+### Tools 🪛
 
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
