@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She,Her
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on : Travel Information Social Web Project
+🔭
 
 
 # Skills :toolbox: 
